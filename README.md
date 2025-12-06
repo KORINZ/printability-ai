@@ -1,6 +1,6 @@
-# AI-Powered Printability Evaluation Framework for 3D Bioprinting Using Hausdorff Distance Metrics
+# AI-powered printability evaluation framework for 3D bioprinting using Hausdorff distance metrics
 
-This repository contains scripts used for the paper "AI-Powered Printability Evaluation Framework for 3D Bioprinting Using Hausdorff Distance Metrics."
+This repository contains scripts used for the paper "AI-powered printability evaluation framework for 3D bioprinting using Hausdorff distance metrics."
 
 **Keywords:** Additive manufacturing; 3D bioprinting; Hausdorff distance; printability; rheology; machine learning; convolutional neural network
 
