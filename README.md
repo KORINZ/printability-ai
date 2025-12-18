@@ -7,6 +7,8 @@ This repository contains scripts used for the paper "AI-powered printability eva
 
 **Keywords:** Additive manufacturing; 3D bioprinting; Hausdorff distance; printability; rheology; machine learning; convolutional neural network
 
+<a href="https://www.researchgate.net/publication/398396117_AI-powered_printability_evaluation_framework_for_3D_bioprinting_using_Hausdorff_distance_metrics">Publisher Previews</a>
+
 ## Citation
 Colin Zhang, Kelum Elvitigala, and Shinji Sakai.
 AI-powered printability evaluation framework for 3D bioprinting using Hausdorff distance metrics. <i>Biofabrication</i> <b>18</b>, 015015 (2026). <a href="https://doi.org/10.1088/1758-5090/ae288c">https://doi.org/10.1088/1758-5090/ae288c</a>.
