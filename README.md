@@ -12,7 +12,7 @@ Colin Zhang, Kelum Elvitigala, and Shinji Sakai.
 AI-powered printability evaluation framework for 3D bioprinting using Hausdorff distance metrics. <i>Biofabrication</i> <b>18</b>, 015015 (2026). <a href="https://doi.org/10.1088/1758-5090/ae288c">https://doi.org/10.1088/1758-5090/ae288c</a>.
 
 ```bibtex
-@article{Zhang_2026,
+@article{Zhang_ai_2026,
 author = {Colin Zhang and Kelum Elvitigala and Shinji Sakai},
 title = {AI-powered printability evaluation framework for 3D bioprinting using Hausdorff distance metrics},
 journal = {Biofabrication},
