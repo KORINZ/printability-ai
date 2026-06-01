@@ -7,7 +7,20 @@ This repository contains scripts used for the paper "AI-powered printability eva
 
 **Keywords:** Additive manufacturing; 3D bioprinting; Hausdorff distance; printability; rheology; machine learning; convolutional neural network
 
+<a href="https://iopscience.iop.org/article/10.1088/1758-5090/ae288c">[Article Link]</a>
+<br>
 <a href="https://www.researchgate.net/publication/398396117_AI-powered_printability_evaluation_framework_for_3D_bioprinting_using_Hausdorff_distance_metrics">[Publisher Preview]</a>
+<br>
+<a href="https://ir.library.osaka-u.ac.jp/repo/ouka/all/104697/?lang=1">[Accepted Manuscript]</a>
+
+## Graphical Abstract
+<p align="center">
+  <a href="https://doi.org/10.1080/17452759.2026.2671497">
+    <img width="800" alt="GraphicalAbstract2" src="https://github.com/user-attachments/assets/dd0aeba6-2659-4e10-bcb3-eee5a5e65188" />
+  </a>
+  <br>
+  <sub>Derived from author-prepared materials used in the pre-acceptance manuscript version of Zhang, C. et al., <i>Biofabrication</i> <b>18</b>, 015015 (2026).</sub>
+</p>
 
 ## Citation
 Colin Zhang, Kelum Elvitigala, and Shinji Sakai.
@@ -31,4 +44,4 @@ url = {https://doi.org/10.1088/1758-5090/ae288c},
 
 ## Disclaimer
 
-Please note that some scripts in this repository might require the corresponding data files to run successfully. The data files are available upon reasonable request from the corresponding author.
+Please note that some scripts in this repository might require the corresponding data files to run successfully. The data files are available upon reasonable request from the corresponding author. This repository is intended for educational and research purposes. The authors are not responsible for any misuse of the code or data provided herein. Users are encouraged to cite the original manuscript when using this code in their research.
